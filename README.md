@@ -22,16 +22,18 @@
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
 ## Urban Grocers Automatizado
-#### Te presento [Urban Grocers](https://github.com/paulasalinas122-sudo/qa-project-Urban-Grocers-app-es), donde me aseguro de contemplar todo tipo de escenario con test positivos y negativos de manera eficiente.
+#### Te presento [Urban Grocers](https://github.com/paulasalinas122-sudo/qa-project-Urban-Grocers-app-es), donde me aseguro de contemplar todo tipo de escenarios con test positivos y negativos de manera eficiente.
 [![Repositorio](https://img.shields.io/badge/GitHub-qa--project--Urban--Grocers--app--es-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/paulasalinas122-sudo/qa-project-Urban-Grocers-app-es)
 - Descripción: Inicialmente se emplea la creación de un usuario o usuaria y se procede a crear el kit correspondiente de cada uno. Además, se agilizan las comprobaciones de Valores Límite y Clases de Equivalencia ( Pytest ) epecificamente para el campo name, durante la creación del kit, de acuerdo con la documentación.
-  
-- Stack:     ![Pytest](https://img.shields.io/badge/Pytest-3776AB?style=for-the-badge&logo=pytest&logoColor=white)
-![Requests](https://img.shields.io/badge/Requests-20232A?style=for-the-badge&logo=python&logoColor=white)
 
 #### Conoce los Tests aplicados para la [creación de usuarios](https://github.com/paulasalinas122-sudo/api_stand_tests) y, darle fiabilidad al usuario con el uso del aplicativo Urban Grocers.
 
+[![Repositorio](https://img.shields.io/badge/GitHub-api__stand__tests-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/paulasalinas122-sudo/api_stand_tests)
+
 - Descripción: En la creación de un usuario, se requieren comprobaciones para el campo "firstName", pero previamente, se validan en cuales kits se encuentran ciertos productos en especifico y posteriormente se emplean los test sobre pruebas positivas, valores limite y clases de equivalencia.
+
+- Stack:     ![Pytest](https://img.shields.io/badge/Pytest-3776AB?style=for-the-badge&logo=pytest&logoColor=white)
+![Requests](https://img.shields.io/badge/Requests-20232A?style=for-the-badge&logo=python&logoColor=white)
   
 ### &nbsp;Mis estadísticas 🔍
 

@@ -21,13 +21,16 @@
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
-## Automatización de pruebas API 
-
+## Urban Grocers Automatizado
+#### Te presento [Urban Grocers](https://github.com/paulasalinas122-sudo/qa-project-Urban-Grocers-app-es), donde me aseguro de contemplar todo tipo de escenario con test positivos y negativos de manera eficiente.
 [![Repositorio](https://img.shields.io/badge/GitHub-qa--project--Urban--Grocers--app--es-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/paulasalinas122-sudo/qa-project-Urban-Grocers-app-es)
-- Descripción: De la aplicación *Urban Grocers*, se crea el kit para el usuario o usuaria, adicional, sus respectivos test en el campo name con entradas incorrectas, pero no cumplen con los resultados esperados.
+- Descripción: Inicialmente se emplea la creación de un usuario o usuaria y se procede a crear el kit correspondiente de cada uno. Además, se agilizan las comprobaciones de Valores Límite y Clases de Equivalencia ( Pytest ) epecificamente para el campo name, durante la creación del kit, de acuerdo con la documentación.
   
 - Stack:     ![Pytest](https://img.shields.io/badge/Pytest-3776AB?style=for-the-badge&logo=pytest&logoColor=white)
 ![Requests](https://img.shields.io/badge/Requests-20232A?style=for-the-badge&logo=python&logoColor=white)
+
+Conoce los Tests aplicados para la creación de usuarios
+#### Conoce los Tests aplicados para la [Urban Grocers](https://github.com/paulasalinas122-sudo/qa-project-Urban-Grocers-app-es), donde me aseguro de contemplar todo tipo de escenario con test positivos y negativos de manera eficiente.
 
 ### &nbsp;Mis estadísticas 🔍
 

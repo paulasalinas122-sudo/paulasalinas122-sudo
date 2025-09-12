@@ -29,9 +29,10 @@
 - Stack:     ![Pytest](https://img.shields.io/badge/Pytest-3776AB?style=for-the-badge&logo=pytest&logoColor=white)
 ![Requests](https://img.shields.io/badge/Requests-20232A?style=for-the-badge&logo=python&logoColor=white)
 
-Conoce los Tests aplicados para la creación de usuarios
-#### Conoce los Tests aplicados para la [Urban Grocers](https://github.com/paulasalinas122-sudo/qa-project-Urban-Grocers-app-es), donde me aseguro de contemplar todo tipo de escenario con test positivos y negativos de manera eficiente.
+#### Conoce los Tests aplicados para la [creación de usuarios](https://github.com/paulasalinas122-sudo/api_stand_tests) y, darle fiabilidad al usuario con el uso del aplicativo Urban Grocers.
 
+- Descripción: En la creación de un usuario, se requieren comprobaciones para el campo "firstName", pero previamente, se validan en cuales kits se encuentran ciertos productos en especifico y posteriormente se emplean los test sobre pruebas positivas, valores limite y clases de equivalencia.
+  
 ### &nbsp;Mis estadísticas 🔍
 
 <p align="center">
